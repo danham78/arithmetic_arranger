@@ -5,15 +5,16 @@ This project is a python program I wrote in response to a challenge set as part 
 The challenge is described below:
 
 
-
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
-  235
-+  52
------
+![2023-06-29 (3)](https://github.com/danham78/arithmetic_arranger/assets/131801769/c36e0f91-f465-4fb7-b785-c0812f21ec5e)
+
+
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
 
 Example
+
+
 Function Call:
 
 arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"])
