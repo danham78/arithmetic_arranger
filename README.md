@@ -7,7 +7,7 @@ The challenge is described below:
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
 
-![2023-06-29 (3)](https://github.com/danham78/arithmetic_arranger/assets/131801769/c36e0f91-f465-4fb7-b785-c0812f21ec5e)
+![2023-06-29 (3)](https://github.com/danham78/arithmetic_arranger/assets/131801769/e55d8d79-9652-42e9-8735-b9ea982ba0a3)
 
 
 Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
