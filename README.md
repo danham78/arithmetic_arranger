@@ -39,3 +39,11 @@ Numbers should be right-aligned.
 There should be four spaces between each problem.
 
 There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
+
+# Installation
+- download the file
+- ensure you have python3 installed
+- run in the command line with the command python arithmetic_arranger.py
+
+# License 
+arithmetic_arranger is available under the MIT, GNU license. 
